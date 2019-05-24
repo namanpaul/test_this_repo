@@ -1,3 +1,4 @@
+﻿<<<<<<< HEAD
     1  git config --global user.name "Naman Paul"
     2  git config --global user.email "naman.paul@gmail.com"
     3  pwd
