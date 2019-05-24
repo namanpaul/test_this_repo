@@ -1,0 +1,107 @@
+    1  git config --global user.name SpencerHook11
+    2  git config --global user.name 'SpencerHook11'
+    3  git config --global user.email 'shook@policyreporter.com'
+    4  git config --global --list
+    5  pwd
+    6  cd C:/Users/User/Documents/git_data
+    7  pwd
+    8  git clone https://github.com/PolicyReporter/analysis.git
+    9  https://github.com/PolicyReporter/fluffy-chainsaw.git
+   10  git clone https://github.com/PolicyReporter/fluffy-chainsaw.git
+   11  pwd
+   12  ls
+   13  ls
+   14  ls -l
+   15  pwd
+   16  mkdir new_drug
+   17  ssh git@github.com
+   18  cd C:
+   19  cd Users/User/Documents/
+   20  pwd
+   21  ls -l
+   22  git clone https://github.com/PolicyReporter/fluffy-chainsaw.git
+   23  git checkout Spencer
+   24  cd
+   25  pwd
+   26  cd C:/Users/User/
+   27  ls
+   28  cd Documents/git_data/analysis/
+   29  git checkout Spencer
+   30  git rebase master
+   31  git rebase --continue
+   32  git rebase --abort 
+   33  git checkout Spencer
+   34  git rebase master
+   35  git am --show-current-patch
+   36  cd
+   37  pwd
+   38  d:
+   39  cd C:/Users/User/Documents
+   40  cd
+   41  pwd
+   42  cd C:/Users/User/Documents/may24
+   43  pwd
+   44  git clone https://github.com/namanpaul/test_this_repo.git
+   45  git checkout issue1
+   46  cd test_this_repo/
+   47  git checkout issue1
+   48  nano file1.txt
+   49  echo file1.txt
+   50  nano file1.txt
+   51  git add file1.txt
+   52  git commit -m "Modified file1.txt -Spencer"
+   53  git push origin issue1
+   54  git push origin issue1
+   55  git status
+   56  git checkout master
+   57  git pull
+   58  history > session_may24.txt
+   59  git add session_may24.txt 
+   60  git commit -m "session commands from may 24 exercise"
+   61  git checkout master
+   62  git pull
+   63  git checkout master
+   64  git commit --amend -m "reverting changes"
+   65  git reset 
+   66  git checkout master
+   67  git pull
+   68  git stash save
+   69  git pull
+   70  git statsh pop
+   71  git stash pop
+   72  git status
+   73  git merge --abort
+   74  git status
+   75  git pull
+   76  git status
+   77  git pull
+   78  git rm session_may24.txt
+   79  git add session_may24.txt 
+   80  git reset --HARD
+   81  git pull --rebase
+   82  git merge --abort
+   83  git pull -rebase
+   84  git pull --rebase
+   85  git add session_may24.txt 
+   86  git push origin master
+   87  git rebase --abort
+   88  clear
+   89  git status
+   90  git pull origin master
+   91  git merge --abort
+   92  clear
+   93  git status
+   94  git commit
+   95  git git log HEAD..origin/master
+   96  git log HEAD..origin/master
+   97  git merge origin/master
+   98  git merge --abort
+   99  git rebase origin/master
+  100  git rebase --abort
+  101  git pull --rebase
+  102  git am --show-current-patch
+  103  git add session_may24.txt 
+  104  git rebase --continue
+  105  git status
+  106  git push
+  107  history > resolved_merge_conflict_yay.txt
