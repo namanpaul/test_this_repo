@@ -1,0 +1,93 @@
+    1  git config --global user.name "Naman Paul"
+    2  git config --global user.email "naman.paul@gmail.com"
+    3  pwd
+    4  cd D:
+    5  ls
+    6  ls
+    7  cd git_data/
+    8  git clone https://github.com/PolicyReporter/analysis.git
+    9  pwd
+   10  exit
+   11  ls
+   12  cd D:
+   13  ls
+   14  cd Novartis
+   15  ls
+   16  git clone https://github.com/namanpaul/Novartis.git
+   17  exit
+   18  pwd
+   19  cd D:/
+   20  git clone https://github.com/PolicyReporter/fluffy-chainsaw.git
+   21  ssh github.com
+   22  ssh git@github.com
+   23  git global user.name 'namanpaul'
+   24  git config --global user.name 'namanpaul'
+   25  D:
+   26  cd D:/
+   27  ls
+   28  cd branching_tutorial/
+   29  git clone https://github.com/namanpaul/test_this_repo.git
+   30  ls
+   31  cd test_this_repo/
+   32  ls
+   33  echo 'This is test file 1'> file1.txt
+   34  ls
+   35  echo 'This is test file 2'> file2.txt
+   36  echo 'This is test file 3'> file3.txt
+   37  ls
+   38  git add file1.txt
+   39  git add file2.txt
+   40  git add file3.txt
+   41  git commit -m "Adding files 1,2,3"
+   42  git push origin master
+   43  history
+   44  history > session_may23.txt
+   45  git add session_may23.txt 
+   46  git commit -m "adding the session commands for reference"
+   47  git push origin master 
+   48  pwd
+   49  ls
+   50  ls -l
+   51  chmod 777 file1.txt 
+   52  ls -l
+   53  cd ..
+   54  cd ..
+   55  cd may24/
+   56  clear
+   57  pwd
+   58  git clone https://github.com/namanpaul/test_this_repo.git
+   59  git checkout issue3
+   60  git branch issue3
+   61  git status
+   62  ls
+   63  cd test_this_repo/
+   64  git checkout issue3
+   65  nano file3.txt
+   66  echo file3.txt 
+   67  file3.txty
+   68  file3.txty
+   69  file3.txt
+   70  cleart
+   71  clear
+   72  nano file3.txt
+   73  git add file3.txt
+   74  git commit -m "Modified file3.txt- naman"
+   75  git push origin issue3
+   76  git status
+   77  ls
+   78  git checkout master
+   79  nano file1.txt 
+   80  git pull master
+   81  git pull
+   82  git branch issue4
+   83  git checkout issue4
+   84  nano file1.txt
+   85  git add file1.txt 
+   86  git commit -m "modified txt contains of file1"
+   87  git push origin issue4
+   88  git checkout master
+   89  git pull
+   90  history > session_may24,txt
+   91  history > session_may24.txt
+   92  history
+   93  history > session_may24.txt
